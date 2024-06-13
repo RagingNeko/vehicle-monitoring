@@ -35,7 +35,7 @@
             <h2>Our Features</h2>
             <div>
                 <h3>Feature 1</h3>
-                <p>"  A  "</p>
+                <p>"  1  "</p>
             </div>
             <div>
                 <h3>Feature 2</h3>
