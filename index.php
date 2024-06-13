@@ -35,15 +35,15 @@
             <h2>Our Features</h2>
             <div>
                 <h3>Feature 1</h3>
-                <p>"  a  "</p>
+                <p>"  A  "</p>
             </div>
             <div>
                 <h3>Feature 2</h3>
-                <p>"  b  "</p>
+                <p>"  B  "</p>
             </div>
             <div>
                 <h3>Feature 3</h3>
-                <p>"  c  "</p>
+                <p>"  C  "</p>
             </div>
         </section>
 
